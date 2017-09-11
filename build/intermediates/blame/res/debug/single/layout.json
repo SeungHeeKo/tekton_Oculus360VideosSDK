@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\layout\\bg_player_header.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\layout\\bg_player_header.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\layout\\bg_player_footer.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\layout\\bg_player_footer.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\layout\\rounded_corner.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\layout\\rounded_corner.xml"
+    }
+]

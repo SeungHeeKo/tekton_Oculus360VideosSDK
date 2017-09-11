@@ -1,0 +1,7 @@
+#Mon Sep 11 11:18:32 KST 2017
+base.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c87936dc637589141a7f40aa81a6b7215f25d227
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_074d997db83c4be9c5f3d14084ffe47e065080bc\\classes.dex
+base.1=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_074d997db83c4be9c5f3d14084ffe47e065080bc
+file.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c87936dc637589141a7f40aa81a6b7215f25d227\\classes.dex

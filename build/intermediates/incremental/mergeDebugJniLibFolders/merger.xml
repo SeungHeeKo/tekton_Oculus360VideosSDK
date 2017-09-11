@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\src\main\jniLibs"/><source path="D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\libs"/></dataSet><dataSet config="debug"><source path="D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\src\debug\jniLibs"/></dataSet></merger>

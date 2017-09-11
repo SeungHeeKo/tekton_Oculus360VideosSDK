@@ -1,0 +1,4 @@
+#Wed Aug 30 12:26:58 KST 2017
+base.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

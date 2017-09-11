@@ -1,0 +1,13 @@
+#Wed Aug 30 12:26:58 KST 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_841dbd9e89887d667dfc74630a3aea1cffa4179c
+base.2=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_928d11b8c9ecae19b3939acdcc161fba9950e700
+base.1=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2f8823f99f99678d9d80a8f4f8de118dfa4a3f70
+base.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cd8bb2c7d6e53e61952bc5fe2d85026a32962a82
+file.3=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_841dbd9e89887d667dfc74630a3aea1cffa4179c\\classes.dex
+file.2=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_928d11b8c9ecae19b3939acdcc161fba9950e700\\classes.dex
+file.1=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2f8823f99f99678d9d80a8f4f8de118dfa4a3f70\\classes.dex
+file.0=D\:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cd8bb2c7d6e53e61952bc5fe2d85026a32962a82\\classes.dex

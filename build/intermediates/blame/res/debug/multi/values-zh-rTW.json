@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\SeungHee\\.android\\build-cache\\f126a545d790a3312eabf583e7acb1cb31fdf6bd\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]

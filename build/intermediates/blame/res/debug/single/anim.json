@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\rightout_activity.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\rightout_activity.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\not_move_activity.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\not_move_activity.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\rightin_activity.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\rightin_activity.xml"
+    },
+    {
+        "merged": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\Projects\\Android\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\android_project\\ovr_sdk_mobile_1.7.0\\VrSamples\\Native\\Oculus360VideosSDK\\res\\anim\\hold.xml"
+    }
+]

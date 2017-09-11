@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:70-109
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:134-159
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:110-133
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:2:160-190
+uses-sdk
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:4:3-72
+MERGED from [Oculus360VideosSDK.VrAppFramework.Projects:AndroidPrebuilt:unspecified] C:\Users\SeungHee\.android\build-cache\f126a545d790a3312eabf583e7acb1cb31fdf6bd\output\AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrGUI.Projects:AndroidPrebuilt:unspecified] C:\Users\SeungHee\.android\build-cache\53357b6358cff079b3cf46a4beb8bdab0d1e3c4c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrLocale.Projects:AndroidPrebuilt:unspecified] C:\Users\SeungHee\.android\build-cache\ec83000889a1992079d34287b7f4fc0cab80e8de\output\AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrSound.Projects:AndroidPrebuilt:unspecified] C:\Users\SeungHee\.android\build-cache\2824f8643fc8f42db7c6726bc17ab67ade8385ef\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:4:40-69
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:4:13-39
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+		INJECTED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:8:3-78
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:8:20-75
+uses-feature#android.hardware.usb.host
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:9:3-60
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:9:17-57
+uses-permission#android.permission.INTERNET
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:10:3-65
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:10:20-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:11:3-73
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:11:20-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:12:3-76
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:12:20-74
+uses-feature#0x00030001
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:15:3-76
+	android:glEsVersion
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:15:17-49
+	android:required
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:15:50-73
+application
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:16:3-38:17
+	android:label
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:16:80-112
+	android:allowBackup
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:16:16-42
+	android:icon
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:16:43-79
+meta-data#com.samsung.android.vr.application.mode
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:17:5-97
+	android:value
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:17:71-94
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:17:16-70
+activity#com.oculus.oculus360videossdk.MainActivity
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:5-37:16
+	android:screenOrientation
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:203-240
+	android:label
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:138-170
+	android:excludeFromRecents
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:245-279
+	android:launchMode
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:171-202
+	android:configChanges
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:22:5-75
+	android:theme
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:73-137
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:21:15-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:24:7-27:23
+action#android.intent.action.MAIN
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:25:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:26:19-66
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:28:7-32:23
+action#android.intent.action.SEND
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:29:17-58
+category#android.intent.category.DEFAULT
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:30:19-65
+data
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:31:9-45
+	android:mimeType
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:31:15-42
+intent-filter#android.intent.category.DEFAULT+com.oculus.oculus360videossdk.changeToAndroid
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:33:7-36:23
+action#com.oculus.oculus360videossdk.changeToAndroid
+ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from D:\android_project\ovr_sdk_mobile_1.7.0\VrSamples\Native\Oculus360VideosSDK\Projects\Android\AndroidManifest.xml:35:17-77
